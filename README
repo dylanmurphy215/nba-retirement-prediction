@@ -1,9 +1,9 @@
 Project By: Amelia Grevin and Dylan Murphy
 NBA Retirement Predictions.
 
-Our project focuses on predicting retirement ages and career length of NBA players. Our primary methods of analysis included linear and logistic regression. Look to our finalProjectReport for information about our methodology and findings.
+Our project focuses on predicting retirement ages and career length of NBA players. Our primary methods of analysis included linear and logistic regression. Look to our presentations/finalProjectReport.pdf for information about our methodology and findings.
 
-Main project code can be found in finalProjectNotebook.ipynb. Data is imported from Kaggle through the Jupyter notebook and can be found at:
+Main project code can be found in src/finalProjectNotebook.ipynb. Data is imported from Kaggle through the Jupyter notebook and can be found at:
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats
 https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data?select=Players.csv
 https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018?select=injuries_2010-2020.csv
